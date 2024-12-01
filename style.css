@@ -784,7 +784,12 @@ header{
     height: 70px;
     left: 0.1%;
     margin-top: -30px;
+}
+
+.kvadr3 {
+    position: absolute;
+    left: 49%;
+    top: 456%;
    
 
-   
 }
